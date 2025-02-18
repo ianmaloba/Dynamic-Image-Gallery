@@ -14,7 +14,7 @@
 
 ## Live Preview
 
-[https://codepen.io/ianmaloba/full/gbYQWWm](https://codepen.io/ianmaloba/full/gbYQWWm).
+[imagegallery.ianmaloba.com](https://imagegallery.ianmaloba.com/)
 
 ## Technologies Used
 * `Vanilla JavaScript`
